@@ -16,7 +16,11 @@ render (shows each epoch while running, much slower than normal training)
 visulise (create a matplotlib graph while training to track the average and best rewards, and shows the epsilon decay over time)
 <img width="1906" height="1029" alt="image" src="https://github.com/user-attachments/assets/5a66aff0-c542-4a3c-beeb-0157f6349094" />        
 
-To run, make sure all files are in the same directory and run the agent.py file (I used VS code throughout). module dependancies include pytorch, pygame, numpy, matplotlib.
+To train a model, make sure all files are in the same directory and run the agent.py file (I used VS code throughout). 
+
+To test a trained model, run the eval_flappy.py file, make sure that the model path is the model you want to test.
+
+module dependancies include pytorch, pygame, numpy, matplotlib.
 
 Let me know what you think! My model achieved a peak score of 22, and was trained for only a few hours. Try and see if you can do better! 
 
