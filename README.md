@@ -1,5 +1,5 @@
 # flappybird---deep-q-learning-
-My first project with deep learning. I made a simple pygame recreation of flappy bird then used pytorch to train a reinforcement based model in pytorch. Try it out!
+My first project with deep learning. I made a pygame recreation of flappy bird then used pytorch to train a reinforcement based model in pytorch. Try it out!
 
 I have included an already somewhat trained model for you to use, however you can always create a completely new model by not adding the dqn_flappy.pth file to the directory or changing the name!
 
