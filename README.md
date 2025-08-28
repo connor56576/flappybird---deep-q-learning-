@@ -10,6 +10,7 @@ There includes different modes within the code, such as:
 human (play yourself) 
         
 render (shows each epoch while running, much slower than normal training)
+<img width="1587" height="924" alt="image" src="https://github.com/user-attachments/assets/107fc0be-3b96-4ef4-a8ae-c2cbde9f3292" />
 
         
 visulise (create a matplotlib graph while training to track the average and best rewards, and shows the epsilon decay over time)
