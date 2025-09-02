@@ -5,7 +5,7 @@ I have included an already somewhat trained model for you to use, however you ca
 
 As this was my first project with deep learning, I expect my code to not be perfect, feel free to change any code you want to.
 
-There includes different modes within the code, such as:
+There includes different modes within the code, such as: 
 
 human (play yourself) 
         
